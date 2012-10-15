@@ -6,6 +6,7 @@ runner["browser test"] = {
     "lib/test_object.js"
   ],
   tests : [
-    "tests/test_object_tests.js"
+    "tests/test_object_tests.js",
+    "tests/test_object_spec.js"
   ]
 }
