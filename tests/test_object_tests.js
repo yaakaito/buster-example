@@ -1,5 +1,5 @@
 buster.testCase("number", {
   "test example" : function() {
-    assert.isNull(null);
+    assert.same(10, test_object.number);
   }
 });
